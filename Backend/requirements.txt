@@ -1,0 +1,6 @@
+flask>=3.0
+flask-socketio>=5.3
+pymavlink>=2.4.40
+boto3>=1.34
+python-dotenv>=1.0
+pyserial>=3.5          # ใช้ต่อ flight controller ผ่าน UART/USB
